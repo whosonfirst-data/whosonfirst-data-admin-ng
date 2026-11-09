@@ -34,7 +34,7 @@
     "wof:belongsto":[
         102191573,
         85632735,
-        1141907411,
+        1125940597,
         1108564511,
         85675335
     ],
@@ -49,7 +49,7 @@
             "continent_id":102191573,
             "country_id":85632735,
             "county_id":1108564511,
-            "locality_id":1141907411,
+            "locality_id":1125940597,
             "neighbourhood_id":1796639789,
             "region_id":85675335
         }
@@ -57,7 +57,7 @@
     "wof:id":1796639789,
     "wof:lastmodified":1669187964,
     "wof:name":"Dofi",
-    "wof:parent_id":1141907411,
+    "wof:parent_id":1125940597,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-ng",
     "wof:superseded_by":[],
