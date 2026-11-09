@@ -80,7 +80,7 @@
     },
     "wof:country":"NG",
     "wof:created":1459009956,
-    "wof:geomhash":"023f8dab0678e0df15ad8239ecda10f3",
+    "wof:geomhash":"9b0e586010b7b3820c97586c6851c4ec",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -108,5 +108,5 @@
     9.0,
     9.3
 ],
-  "geometry": {"coordinates":[9.0,9.3],"type":"Point"}
+  "geometry": {"coordinates":[9,9.3],"type":"Point"}
 }

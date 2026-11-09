@@ -46,7 +46,7 @@
         "wk:page":"Oke-Onigbin"
     },
     "wof:country":"NG",
-    "wof:geomhash":"cd6de35cc93a0d450923f39109ee29a2",
+    "wof:geomhash":"0ceb8233e30dd335e3b3c623d6d26a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -72,5 +72,5 @@
     5.0,
     8.21667
 ],
-  "geometry": {"coordinates":[5.0,8.21667],"type":"Point"}
+  "geometry": {"coordinates":[5,8.21667],"type":"Point"}
 }

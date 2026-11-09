@@ -42,7 +42,7 @@
         "gn:id":6915302
     },
     "wof:country":"NG",
-    "wof:geomhash":"5c67fb711d52f4260cac9a23d1407b0e",
+    "wof:geomhash":"180ac6b602c1d5b00c3a0cac579c70bf",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     8.3962,
     5.0
 ],
-  "geometry": {"coordinates":[8.3962,5.0],"type":"Point"}
+  "geometry": {"coordinates":[8.3962,5],"type":"Point"}
 }
