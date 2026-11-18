@@ -93,12 +93,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Lokoro"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u6d1b\u79d1\u7f57\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u6d1b\u79d1\u7f85\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -122,7 +116,7 @@
         }
     ],
     "wof:id":1226370963,
-    "wof:lastmodified":1636502979,
+    "wof:lastmodified":1794999722,
     "wof:name":"Lokoro",
     "wof:parent_id":1108563661,
     "wof:placetype":"locality",

@@ -171,12 +171,6 @@
     "name:yor_x_preferred":[
         "G\u00f2mb\u00e8"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8d21\u8d1d\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8ca2\u8c9d\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u8ca2\u8c9d"
     ],
@@ -299,7 +293,7 @@
         }
     ],
     "wof:id":1141907421,
-    "wof:lastmodified":1690848445,
+    "wof:lastmodified":1794999722,
     "wof:name":"Gombe",
     "wof:parent_id":1108563429,
     "wof:placetype":"locality",

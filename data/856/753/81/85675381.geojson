@@ -235,14 +235,8 @@
     "name:yor_x_variant":[
         "Gombe State"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u8d21\u8d1d\u6cb3"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Gombe Chiu"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8ca2\u8c9d\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u8d21\u8d1d\u5dde"
@@ -376,7 +370,7 @@
         "eng",
         "yor"
     ],
-    "wof:lastmodified":1695884945,
+    "wof:lastmodified":1794999722,
     "wof:name":"Gombe",
     "wof:parent_id":85632735,
     "wof:placetype":"region",

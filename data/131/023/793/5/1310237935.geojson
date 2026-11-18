@@ -103,9 +103,6 @@
     "name:vie_x_preferred":[
         "S\u00f4ng Mariga"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u9a6c\u91cc\u52a0\u6cb3"
-    ],
     "name:zho_tw_x_preferred":[
         "\u99ac\u91cc\u52a0"
     ],
@@ -132,7 +129,7 @@
         }
     ],
     "wof:id":1310237935,
-    "wof:lastmodified":1636502930,
+    "wof:lastmodified":1794999722,
     "wof:name":"Mariga",
     "wof:parent_id":1108563947,
     "wof:placetype":"locality",

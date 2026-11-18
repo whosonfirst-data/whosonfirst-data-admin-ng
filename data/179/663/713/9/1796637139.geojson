@@ -348,9 +348,6 @@
     "name:zho_cn_x_preferred":[
         "\u6c34\u5e93"
     ],
-    "name:zho_tw_x_preferred":[
-        "\u9054\u6728\u6cb3"
-    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191573,
@@ -376,7 +373,7 @@
         }
     ],
     "wof:id":1796637139,
-    "wof:lastmodified":1669186909,
+    "wof:lastmodified":1794999722,
     "wof:name":"Dam",
     "wof:parent_id":421195961,
     "wof:placetype":"neighbourhood",
