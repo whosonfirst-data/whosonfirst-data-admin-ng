@@ -1,0 +1,75 @@
+{
+  "id": 9895093067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.66407,11.55965,9.66407,11.55965",
+    "geom:latitude":11.55965,
+    "geom:longitude":9.66407,
+    "gn:population":200000,
+    "iso:country":"NG",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12129605: name \"Chakwama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12129605"
+        },
+        {
+            "citation":"GeoNames populated place 12129605: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12129605"
+        },
+        {
+            "citation":"GeoNames populated place 12129605: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12129605"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108563161 (Buji), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632735,
+        85675421,
+        102191573,
+        1108563161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12129605
+    },
+    "wof:country":"NG",
+    "wof:geomhash":"dc88d37c8e17706f4463929811f8c1e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632735,
+            "county_id":1108563161,
+            "locality_id":9895093067,
+            "region_id":85675421
+        }
+    ],
+    "wof:id":9895093067,
+    "wof:lastmodified":1795747432,
+    "wof:name":"Chakwama",
+    "wof:parent_id":1108563161,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ng",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.66407,
+    11.55965,
+    9.66407,
+    11.55965
+],
+  "geometry": {"coordinates":[9.66407,11.55965],"type":"Point"}
+}
